@@ -1,0 +1,136 @@
+body
+{
+	background-color: orange;
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+}
+
+h1
+{
+	font-size: 48px;
+	color: red;
+}
+
+/*Nieodwiedzony link*/
+a:link
+{
+	color:white;
+}
+
+/*Odwiedzony link*/
+a:visited
+{
+	color:dark violet;
+}
+
+/*Link po najechaniu kursorem*/
+a:hover
+{
+	color: red;
+}
+
+#container
+{
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo
+{
+	background-color: white;
+	color: red;
+	text-align: center;
+	padding: 15px;
+	letter-spacing: 3px;
+}
+
+#nav
+{
+	float:left;
+	background-color: lightgrey;
+	width: 120px;
+	min-height: 1200px;
+	padding: 10px;
+}
+
+#content
+{
+	float:left;
+	padding: 20px;
+	width: 640px;
+}
+
+#ad
+{
+	float:left;
+	padding: 10px;
+	width: 140px;
+	min-height:1200px;
+	background-color:lightgrey;
+}
+
+#footer
+{
+	clear:both;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.obrazek
+{
+	width: 640px;
+	float:left;
+	border-radius: 20%;
+	
+}
+.snaxior
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
+
+.biceps
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
+
+.clutch
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
+
+.kapitan
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
+
+.Pubg
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
+
+.zdrajcy
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
+.trener
+{
+	width: 640px;
+	float:left;
+	border-radius: 15%;
+}
