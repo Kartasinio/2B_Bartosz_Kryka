@@ -50,7 +50,7 @@ a:hover
 {
 	float:left;
 	background-color: lightgrey;
-	width: 120px;
+	width: 140px;
 	min-height: 1200px;
 	padding: 10px;
 }
@@ -65,7 +65,7 @@ a:hover
 #ad
 {
 	float:left;
-	padding: 10px;
+	padding: 15px;
 	width: 140px;
 	min-height:1200px;
 	background-color:lightgrey;
